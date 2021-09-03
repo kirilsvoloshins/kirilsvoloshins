@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kirilsvoloshins
-- 👀 I’m interested in solving tasks and automating repetitive ones with the help of code 
+- 👀 I’m interested in automating and solving tasks with the help of code 
 - 🌱 I’m currently learning React
 
 😎 I have experience working with:
