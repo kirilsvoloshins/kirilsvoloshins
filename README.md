@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 
 😎 I have experience working with:
-- HTML, CSS, JS, SQL (PostgreSQL)
+- HTML, CSS, JS (Vanilla + jQuery), SQL (PostgreSQL)
 - Ladder (Schneider Machine Expert basic)
 - FBD (Scheneider ZelioSoft)
 - Weintek and Schneider HMI panels (EasyBuilder Pro, Ecostruxure Machine Terminal Expert)
