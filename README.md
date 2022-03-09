@@ -5,8 +5,9 @@
 😎 I have experience working with:
 - HTML, CSS, JS (Vanilla + jQuery), SQL (PostgreSQL)
 - Ladder (Schneider Machine Expert basic)
-- FBD (Scheneider ZelioSoft)
+- FBD (Schneider ZelioSoft)
 - Weintek and Schneider HMI panels (EasyBuilder Pro, Ecostruxure Machine Terminal Expert)
+- ESP32, Arduino
 
 
 <!---
