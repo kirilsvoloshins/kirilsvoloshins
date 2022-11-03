@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kirilsvoloshins
 - 👀 I’m interested in automating and solving tasks with the help of code. I also do love photography and taking portraits. 
-- 🌱 I fell in love with Typescript and am currently learning React
 
 😎 I have experience working with:
 - HTML, CSS, JS (Vanilla + jQuery), SQL (PostgreSQL)
